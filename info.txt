@@ -1,0 +1,108 @@
+Valtteri Bottas
+1
+3
+Lewis Hamilton
+3
+4
+Max Vestappen
+3
+5
+Sergio Perez
+3
+3
+Charles Leclerc
+4
+5
+Carlos Sainz
+4
+4
+Lando Norris
+5
+3
+Oscar Piastri
+5
+3
+Esteban Ocon
+2
+2
+Pierre Gasly
+2
+2
+Fernando Alonso
+2
+4
+Lance Stroll
+2
+1
+Alexander Albon
+2
+3
+Franco Colapinto
+2
+3
+George Russell
+3
+4
+Guanyu Zhou
+1
+2
+Yuki Tsunoda
+3
+3
+Liam Lawson
+3
+3
+Kevin Magnussen
+3
+2
+Nico Hülkenberg
+3
+2
+Barém
+57
+Arábia Saudita
+50
+Austrália
+58
+Japão
+53
+China
+56
+Miami
+57
+Emília-Romanha
+63
+Mônaco
+78
+Canadá
+70
+Espanha
+66
+Áustria
+71
+Grã-Bretanha
+52
+Hungria
+70
+Bélgica
+44
+Países Baixos
+72
+Itália
+53
+Azerbaijão
+51
+Singapura
+62
+Estados Unidos
+56
+Cidade do México
+71
+São Paulo
+71
+Las Vegas
+50
+Catar
+57
+Abu Dhabi
+58
